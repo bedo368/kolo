@@ -1,0 +1,83 @@
+
+body{
+    background-color: #f5d9d5;
+    font-family: 'Nunito', sans-serif;
+}
+.navbar .container-fluid {
+    background-color:  ;
+    border-radius: 2px;
+}
+
+#nav .navbar-brand {
+    color: #ea1c2c;
+    font-size: 1.5rem;
+}
+#nav .navbar-brand:hover {
+    color: #ea1c2c;
+    font-size: 1.5rem;
+}
+
+#nav .navbar-nav .nav-link {
+    color: rgb(255, 255, 255);
+    font-size: 1.3rem;
+    margin: 0 3px;
+}
+#nav .navbar-nav .nav-link:hover {
+    color: #ea1c2c;
+
+}
+
+
+
+
+
+
+.container-fluid .row .col-6 h1 {
+    
+    text-transform: uppercase;
+    padding: 5px;
+}
+
+#span .bla {
+    font-weight: 100;
+    text-transform: uppercase;
+    font-size: 4rem;
+    transition: ease .3s all;
+}
+#span span {
+    color: #ea1c2c;
+}
+@media(max-width:1280px){
+    #span .bla {
+        
+        font-size: 3rem;
+    }
+
+}
+@media(max-width:1050px){
+    #span .bla {
+        
+        font-size: 2.5rem;
+    }
+
+}
+
+#coco h2 {
+    color: #ea1c2c;
+}
+#coco p {
+    color: #fd69e494;
+    padding: 10px 10%;
+}
+
+#candy {
+    color: rgb(185, 54, 54);
+}
+#margin {
+    margin-bottom: 100px;
+}
+.navbar.scrol {
+    background-color: rgba(106, 0, 116, 0.514);
+    border-radius: 3px;
+    
+}
